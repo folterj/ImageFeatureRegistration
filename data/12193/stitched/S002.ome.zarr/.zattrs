@@ -1,0 +1,174 @@
+{
+    "multiscales": [
+        {
+            "axes": [
+                {
+                    "name": "y",
+                    "type": "space",
+                    "unit": "micrometer"
+                },
+                {
+                    "name": "x",
+                    "type": "space",
+                    "unit": "micrometer"
+                }
+            ],
+            "datasets": [
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                0.03200000000000003,
+                                0.03200000000000003
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                -1.580960991554518,
+                                -1.4455993133070284
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "0"
+                },
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                0.06400000000000006,
+                                0.06400000000000006
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                -1.564960991554518,
+                                -1.4295993133070284
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "1"
+                },
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                0.1280000000000001,
+                                0.1280000000000001
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                -1.532960991554518,
+                                -1.3975993133070284
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "2"
+                },
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                0.2560000000000002,
+                                0.2560000000000002
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                -1.4689609915545179,
+                                -1.3335993133070283
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "3"
+                },
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                0.5120000000000005,
+                                0.5120000000000005
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                -1.3409609915545178,
+                                -1.2055993133070282
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "4"
+                },
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                1.024000000000001,
+                                1.024000000000001
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                -1.0849609915545175,
+                                -0.949599313307028
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "5"
+                },
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                2.048000000000002,
+                                2.048000000000002
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                -0.5729609915545171,
+                                -0.4375993133070275
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "6"
+                },
+                {
+                    "coordinateTransformations": [
+                        {
+                            "scale": [
+                                4.096000000000004,
+                                4.096000000000004
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation": [
+                                0.45103900844548384,
+                                0.5864006866929734
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "7"
+                }
+            ],
+            "name": "/",
+            "version": "0.4"
+        }
+    ]
+}

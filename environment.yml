@@ -1,0 +1,15 @@
+name: feature-reg-env
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.12.3
+ - numpy
+ - scipy
+ - scikit-image
+ - opencv
+ - ome-zarr
+ - tifffile>=2023.9.26
+ - matplotlib
+ - tqdm
+ - pip
