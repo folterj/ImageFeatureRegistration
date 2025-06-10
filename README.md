@@ -1,2 +1,2 @@
 # ImageFeatureRegistration
-Python image registration using extracted feature descriptors
+Python image registration matching extracted feature descriptors
